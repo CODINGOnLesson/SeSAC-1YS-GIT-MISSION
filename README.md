@@ -14,7 +14,7 @@
   ```
   // git bash를 이용 ( MAC의 경우 터미널 이용 )
   cd Desktop/github
-  git clone https://github.com/SeSAC1YS/First-Git-Mission.git
+  git clone https://github.com/SeSAC1YS/1YS-GIT-MISSION.git
   git checkout -b Hello/이름
   ```
 2. 1ST_MISSION_NAME.md 파일의 내용을 복사하여 3 rules와 wish 항목을 수정하여 따로 복사해놓기
